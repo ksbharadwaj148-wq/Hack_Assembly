@@ -1,2 +1,2 @@
-# Hack_Assembly
-Elements of Computing
+# Hack_assembler
+These will convert hack assembly to binary
